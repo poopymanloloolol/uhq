@@ -1,0 +1,1 @@
+print ("joined discord.gdfkhgs")
